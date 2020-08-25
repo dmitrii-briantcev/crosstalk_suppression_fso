@@ -16,7 +16,7 @@ C2 = cell(screen_num_lim);
 
 for j = 1:screen_num_lim
     
-	c1_init{1} = (randn(3) + 1i*randn(3));
+    c1_init{1} = (randn(3) + 1i*randn(3));
     c1_init{2} = (randn(3) + 1i*randn(3));
     c1_init{3} = (randn(3) + 1i*randn(3));
     c2_init = (randn(params.N) + 1i*randn(params.N));
