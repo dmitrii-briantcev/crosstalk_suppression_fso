@@ -52,7 +52,7 @@ params.N = 256;
 params.delta = params.D/params.N; % Distance between nodes
 params.x = ((-params.N)/2:(params.N)/2-1)*params.delta; % x - grid
 params.y = ((-params.N)/2:(params.N)/2-1)*params.delta; % y - grid
-params.phase_error = 0.5; % Phase error of the reciever
+params.phase_error = 0.001; % Phase error of the reciever
 params.responsivity = 0.8; % Electro-optical power conversion coefficient
  
 % Simulation parameters
