@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Abderrahmen Trichilli
+% Abderrahmen Trichilli, Dmitrii Briantcev
 %
 % Generation of the Laguerre-Gaussian beam
 %
